@@ -1,3 +1,7 @@
+Dies ist der Webauftritt der DHd AG Empowerment. Wir haben hierfür das Template "Augustine" von StyleShout verwendet: https://styleshout.com/free-templates/augustine/.
+
+Das ursprüngliche README folgt nachstehend:
+
 ==================================================================================================
 
 DESCRIPTION:
@@ -43,7 +47,6 @@ We prefer the footer credit that comes with the template but you are still free 
 somewhere else.
 
 
-
 If you have any questions about the License, feel free to contact us.
 
 
@@ -84,8 +87,7 @@ javascript in your skill-set, you can also check out these tutorials:
 
  - https://www.codecademy.com/learn/introduction-to-javascript
  - https://javascript.info/
-
-
+ 
 
 ------------------------------------------------------------------------------------------------------ 
 
@@ -94,8 +96,6 @@ GET THE LATEST VERSION:
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
 always download the template files directly on our website(https://www.styleshout.com/)
-
-
 
 
 -------------------------------------------------------------------------------------------------------
@@ -126,5 +126,3 @@ Javascript Files:
 
 
 Thanks for downloading from Styleshout :)
-
-
